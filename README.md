@@ -1,5 +1,4 @@
-##
-<img align="center" alt="zoro" src="https://media.discordapp.net/attachments/938872015350292502/938872521787330641/tenor.gif">
+
 ##
 Opa! Eu sou o Pedro Reis. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 ##
@@ -22,7 +21,7 @@ Opa! Eu sou o Pedro Reis. <img src="https://raw.githubusercontent.com/iampavanga
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   
+ 
 </p>
 
 ## Contact :iphone:
