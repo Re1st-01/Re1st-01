@@ -49,4 +49,4 @@ Opa! Eu sou o Pedro Reis. <img src="https://raw.githubusercontent.com/iampavanga
 
 </p>
 
- ![Snake animation](https://https://github.com/Re1st-01/Re1st-01/blob/output/github-contribution-grid-snake.svg)
+ 
