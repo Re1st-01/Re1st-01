@@ -5,7 +5,7 @@ Opa! Eu sou o Pedro Reis. <img src="https://raw.githubusercontent.com/iampavanga
 <div align="center">
   <a href="https://github.com/Re1st-01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Re1st-01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Re1st-01&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Re1st-01&layout=compact&langs_count=7&theme=dark"/> 
 </div>
   
 ### Sobre mim
