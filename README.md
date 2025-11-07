@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Pedro Reis
 
-💻 **Desenvolvedor Front-End** | 💼 **CEO da [Re1st Tec](https://re1st-tec.netlify.app/)**  
+💻 **Desenvolvedor Front-End** | 💼 **CEO da [Re1st Tec](https://www.re1st.site/)**  
 🚀 Estudando **React**, **TypeScript** e **Tailwind CSS**  
 
 ---
@@ -44,7 +44,7 @@ em aplicações reais que impactam positivamente o usuário final.
 
 ---
 
-### 💡 [Re1st Tec](https://re1st-tec.netlify.app/)
+### 💡 [Re1st Tec](https://www.re1st.site/)
 > Portfólio e vitrine de projetos pessoais e corporativos, com foco em performance e estética.  
 > **Tecnologias:** Html, CSS, Java Script.
 ---
@@ -57,7 +57,7 @@ em aplicações reais que impactam positivamente o usuário final.
 
 ## 📫 Contato
 
-- 🌐 [Portfólio](https://re1st-tec.netlify.app/)  
+- 🌐 [Portfólio](https://www.re1st.site/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/pedro-reis)  
 - ✉️ **pedrohenriqueoliveira145@gmail.com**
 
