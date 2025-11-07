@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Pedro Reis
 
-💻 **Desenvolvedor Front-End** | 💼 **CEO da [Re1st Tec](https://www.re1st.site/)**  
+💻 **Desenvolvedor Front-End** | 💼 **CEO da [Re1st Tech](https://www.re1st.site/)**  
 🚀 Estudando **React**, **TypeScript** e **Tailwind CSS**  
 
 ---
@@ -22,7 +22,7 @@
 
 ## 🧠 Sobre mim
 Sou um desenvolvedor front-end dedicado a criar interfaces modernas, acessíveis e responsivas.  
-Como **CEO da Re1st Tec**, busco unir design, tecnologia e experiência do usuário para entregar  
+Como **CEO da Re1st Tech**, busco unir design, tecnologia e experiência do usuário para entregar  
 soluções digitais com performance e identidade visual consistente.  
 
 Minha jornada é movida pela curiosidade, aprendizado constante e pela vontade de transformar ideias  
@@ -44,7 +44,7 @@ em aplicações reais que impactam positivamente o usuário final.
 
 ---
 
-### 💡 [Re1st Tec](https://www.re1st.site/)
+### 💡 [Re1st Tech](https://www.re1st.site/)
 > Portfólio e vitrine de projetos pessoais e corporativos, com foco em performance e estética.  
 > **Tecnologias:** Html, CSS, Java Script.
 ---
@@ -63,7 +63,5 @@ em aplicações reais que impactam positivamente o usuário final.
 
 ---
 
-> _“Código limpo é poesia para quem entende a linguagem.”_
 
----
 
