@@ -51,7 +51,7 @@ em aplicações reais que impactam positivamente o usuário final.
 
 ## 📊 Estatísticas do GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Re1st-01&layout=compact&theme=github_dark&hide_border=true&title_color=3b82f6&text_color=cbd5e1)
+[![Top Langs](https://vercel.app)](https://github.com/Re1st-01/github-readme-stats)
 
 ---
 
